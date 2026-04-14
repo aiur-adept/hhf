@@ -1,5 +1,7 @@
 # Hatched Horses Fighting
 
+([link to simulation code repository](https://github.com/aiur-adept/hhf))
+
 ![hay bale food token](https://i.imgur.com/t7Mv6AT.png)
 
 It's hatched horses fighting, need I say more?
