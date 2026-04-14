@@ -1,8 +1,8 @@
 1 Ajani's Mantra
-1 Ancient Animus
 1 Arcane Signet
 1 Archdruid's Charm
 1 Arni Slays the Troll
+1 Ashnod's Altar
 1 Basilisk Collar
 1 Bill the Pony
 1 Bite Down
@@ -69,12 +69,12 @@
 1 Sunpetal Grove
 1 Swiftfoot Boots
 1 Sword of Feast and Famine
-1 Sword of Fire and Ice
 1 Sylvan Library
 1 Temple Garden
 1 Temple of Abandon
 1 Temple of Plenty
 1 Temple of Triumph
+1 Thornbite Staff
 1 Three Visits
 1 Thundering Mightmare
 1 Vine Mare

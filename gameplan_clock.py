@@ -14,9 +14,11 @@ Gameplans
   GP4  Atla + Roaming Throne      Atla (commander) castable + Roaming Throne in seen/castable
   GP5  Calamity Copy Attack       Calamity (natural/tutor) + any castable creature power >= 1
   GP6  Shadowfax Alpha Strike     Shadowfax (natural/tutor) + castable creature with power <= 3
-  GP7  Atla + Skullclamp Turbo    Atla (commander) castable + Skullclamp in seen/castable
+  GP7  Atla + Egg Cracker        Atla (commander) castable + Egg cracker in seen/castable
   GP8  Atla Trigger Doubler       Atla (commander) castable + any of: Roaming Throne,
                                   Strionic Resonator, or Delney, Streetwise Lookout
+  GP9  Atla Infinite Eggs         Atla (commander) castable + Thornbite Staff +
+                                  Ashnod's Altar
 
 Atla is treated as always accessible from the command zone for GP3/GP4/GP5/GP7/GP8:
 saddle checks add her 2 power to the pool, and GP4/GP7/GP8 only need her cost to
@@ -190,6 +192,7 @@ GAMEPLANS = [
     ('gp6', 'Shadowfax Alpha Strike    '),
     ('gp7', 'Atla + Skullclamp Turbo   '),
     ('gp8', 'Atla Trigger Doubler      '),
+    ('gp9', 'Atla Infinite Eggs        '),
 ]
 
 # Primary creatures that creature tutors can fetch.
@@ -286,10 +289,13 @@ def simulate_game(shuffled, card_data, card_tags):
                         results['gp6'] = turn
                         break
 
-        # GP7: Atla (commander) + Skullclamp
+        # GP7: Atla (commander) + Egg cracker
         if results['gp7'] is None:
             if _castable(ATLA, card_data, pips):
-                if 'Skullclamp' in seen and _castable('Skullclamp', card_data, pips):
+                if ('Skullclamp' in seen and _castable('Skullclamp', card_data, pips) or
+                    ('Ashnod\'s Altar' in seen and _castable('Ashnod\'s Altar', card_data, pips)) or
+                    ('Goblin Bombardment' in seen and _castable('Goblin Bombardment', card_data, pips))
+                ):
                     results['gp7'] = turn
 
         # GP8: Atla (commander) + trigger doubler
@@ -303,6 +309,13 @@ def simulate_game(shuffled, card_data, card_tags):
                 )
                 if doubler_ok:
                     results['gp8'] = turn
+
+        # GP9: Atla (commander) + Thornbite Staff + Ashnod's Altar
+        if results['gp9'] is None:
+            if _castable(ATLA, card_data, pips):
+                if ('Thornbite Staff' in seen and _castable('Thornbite Staff', card_data, pips) and
+                    "Ashnod's Altar" in seen and _castable("Ashnod's Altar", card_data, pips)):
+                    results['gp9'] = turn
 
     return results
 

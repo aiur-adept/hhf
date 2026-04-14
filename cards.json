@@ -7,14 +7,6 @@
     "power": null,
     "toughness": null
   },
-  "Ancient Animus": {
-    "name": "Ancient Animus",
-    "mana_cost": "{1}{G}",
-    "type_line": "Instant",
-    "oracle_text": "Put a +1/+1 counter on target creature you control if it's legendary. Then it fights target creature an opponent controls. (Each deals damage equal to its power to the other.)",
-    "power": null,
-    "toughness": null
-  },
   "Arcane Signet": {
     "name": "Arcane Signet",
     "mana_cost": "{2}",
@@ -36,6 +28,14 @@
     "mana_cost": "{R}{G}",
     "type_line": "Enchantment — Saga",
     "oracle_text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Target creature you control fights up to one target creature you don't control.\nII — Add {R}. Put two +1/+1 counters on up to one target creature you control.\nIII — You gain life equal to the greatest power among creatures you control.",
+    "power": null,
+    "toughness": null
+  },
+  "Ashnod's Altar": {
+    "name": "Ashnod's Altar",
+    "mana_cost": "{3}",
+    "type_line": "Artifact",
+    "oracle_text": "Sacrifice a creature: Add {C}{C}.",
     "power": null,
     "toughness": null
   },
@@ -575,14 +575,6 @@
     "power": null,
     "toughness": null
   },
-  "Sword of Fire and Ice": {
-    "name": "Sword of Fire and Ice",
-    "mana_cost": "{3}",
-    "type_line": "Artifact — Equipment",
-    "oracle_text": "Equipped creature gets +2/+2 and has protection from red and from blue.\nWhenever equipped creature deals combat damage to a player, this Equipment deals 2 damage to any target and you draw a card.\nEquip {2}",
-    "power": null,
-    "toughness": null
-  },
   "Sylvan Library": {
     "name": "Sylvan Library",
     "mana_cost": "{1}{G}",
@@ -620,6 +612,14 @@
     "mana_cost": "",
     "type_line": "Land",
     "oracle_text": "This land enters tapped.\nWhen this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom.)\n{T}: Add {R} or {W}.",
+    "power": null,
+    "toughness": null
+  },
+  "Thornbite Staff": {
+    "name": "Thornbite Staff",
+    "mana_cost": "{2}",
+    "type_line": "Kindred Artifact — Shaman Equipment",
+    "oracle_text": "Equipped creature has \"{2}, {T}: This creature deals 1 damage to any target\" and \"Whenever a creature dies, untap this creature.\"\nWhenever a Shaman creature enters, you may attach this Equipment to it.\nEquip {4}",
     "power": null,
     "toughness": null
   },

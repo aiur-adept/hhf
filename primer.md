@@ -1,6 +1,8 @@
 # Hatched Horses Fighting
 
-([link to simulation code repository](https://github.com/aiur-adept/hhf))
+([link to simulation code repository](https://github.com/aiur-adept/hhf) ; run scripts in here to see updated deck statistics)
+
+([link to simulation results (currently updated)](https://aiur-adept.github.io/hhf-stats-html/))
 
 ![hay bale food token](https://i.imgur.com/t7Mv6AT.png)
 
@@ -11,7 +13,6 @@ It's hatched horses fighting, need I say more?
 This deck "works" by having horses that fight come out of eggs.
 
 ### Engine 1 - Crested Sunmare Token Factory
-> *"If you gained life this turn, create a 5/5 white Horse token at end step."*
 
 **Crested Sunmare** is the deck's most powerful card. Once it's on the battlefield with any lifelink source — **Basilisk Collar**, **Shadowspear**, **Loxodon Warhammer**, **Resurrection Orb**, or **Shield Mare**'s triggered ability — you can generally generate a 5/5 Horse every turn. Every *other* Horse also becomes indestructible while Sunmare is alive, so ideally you can swiftfoot and/or resurrection orb the crested sunmare. 
 
@@ -87,23 +88,9 @@ Bill the Pony will enter with 4 foods thanks to Delney's ability. With parallel 
 
 Use her with Atla to make 4 eggs each turn cycle.
 
-## Crested Sunmare + Lifelink/Lifegain engine analysis
+## Thornbite Staff + Ashnod's Altar
 
-I vibe coded a python program to run 100,000 games, simulating board state and card draw mechanics. This gave me the following data:
-
-![card draw analysis - we draw 24 cards by turn 10 on average, with standard deviation 7.5 cards](https://i.imgur.com/e7Jz1V3.png)
-
-Then I vibe coded a python program to run 100,000 games statistically simulating land drops, ramp, and casting, to see by what turn we can expect to get the deck's best engine online, given the card draw statistics above. The results are modest and interesting, showing the deck is tuned to definitely-playable consistency:
-
-![crested sunmare engine analysis - 24% on turn 5, up to 74% on turn 10](https://i.imgur.com/DM4DPyB.png)
-
-Finally we have a gameplan analysis that simulates gameplay on my turns and sees - given the cards i drew - could i have gotten each of the deck's gameplans online by that turn. 2.8% of the time, we don't get a gameplan online, and the best signal for a bad hand is having only non-creature spells.
-
-![gameplan analysis table](https://i.imgur.com/eFoSKDp.png)
-
-Finally, we have a simulation that analyses median power and toughness up to T10. We see 4/4 on T4 scaling linearly more or less up to 26/27 on T10. IQR goes from 3 on T4 to 21 on T10 (that is, some games do substantially better; in fact 23.4% of games reached >= 40 power by T10).
-
-![board power & toughness statistics table](https://i.imgur.com/FcTWkuP.png)
+This creates {2} per egg pop, untapping Atla thanks to the Staff. Dump every creature into play and hope it's enough to swing out.
 
 ## The Most Important Question
 

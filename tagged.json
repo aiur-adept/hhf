@@ -11,7 +11,6 @@
       "Fireshrieker",
       "Heirloom Blade",
       "Sword of Feast and Famine",
-      "Sword of Fire and Ice",
       "Collective Blessing",
       "Colossification"
     ]
@@ -23,7 +22,6 @@
       "Skullclamp",
       "Sylvan Library",
       "Selvala, Explorer Returned",
-      "Sword of Fire and Ice",
       "Mind's Eye",
       "Return of the Wildspeaker"
     ]
@@ -38,7 +36,8 @@
     "tag": "egg-cracker",
     "cards": [
       "Skullclamp",
-      "Goblin Bombardment"
+      "Goblin Bombardment",
+      "Ashnod's Altar"
     ]
   },
   {
@@ -52,7 +51,6 @@
     "cards": [
       "Bushwhack",
       "Prey Upon",
-      "Ancient Animus",
       "Arni Slays the Troll",
       "Bite Down",
       "Dromoka's Command",
@@ -68,6 +66,13 @@
     "tag": "finishers",
     "cards": [
       "Craterhoof Behemoth"
+    ]
+  },
+  {
+    "tag": "hatch-every-horse-combo",
+    "cards": [
+      "Thornbite Staff",
+      "Ashnod's Altar"
     ]
   },
   {
