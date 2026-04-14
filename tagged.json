@@ -1,0 +1,183 @@
+[
+  {
+    "tag": "Commander",
+    "cards": [
+      "Atla Palani, Nest Tender"
+    ]
+  },
+  {
+    "tag": "buffs",
+    "cards": [
+      "Fireshrieker",
+      "Heirloom Blade",
+      "Sword of Feast and Famine",
+      "Sword of Fire and Ice",
+      "Collective Blessing",
+      "Colossification"
+    ]
+  },
+  {
+    "tag": "card-draw",
+    "cards": [
+      "Esper Sentinel",
+      "Skullclamp",
+      "Sylvan Library",
+      "Selvala, Explorer Returned",
+      "Sword of Fire and Ice",
+      "Mind's Eye",
+      "Return of the Wildspeaker"
+    ]
+  },
+  {
+    "tag": "defense",
+    "cards": [
+      "Ghostly Prison"
+    ]
+  },
+  {
+    "tag": "egg-cracker",
+    "cards": [
+      "Skullclamp",
+      "Goblin Bombardment"
+    ]
+  },
+  {
+    "tag": "eggs-go-brr",
+    "cards": [
+      "Seedborn Muse"
+    ]
+  },
+  {
+    "tag": "fighting",
+    "cards": [
+      "Bushwhack",
+      "Prey Upon",
+      "Ancient Animus",
+      "Arni Slays the Troll",
+      "Bite Down",
+      "Dromoka's Command",
+      "Ent's Fury",
+      "Epic Confrontation",
+      "Go for Blood",
+      "Ram Through",
+      "Savage Punch",
+      "Archdruid's Charm"
+    ]
+  },
+  {
+    "tag": "finishers",
+    "cards": [
+      "Craterhoof Behemoth"
+    ]
+  },
+  {
+    "tag": "horses",
+    "cards": [
+      "Diamond Mare",
+      "Shield Mare",
+      "Bill the Pony",
+      "Brightfield Mustang",
+      "Chrome Steed",
+      "Vine Mare",
+      "Crested Sunmare",
+      "Guardian Sunmare",
+      "Motivated Pony",
+      "Shadowfax, Lord of Horses",
+      "Thundering Mightmare",
+      "Calamity, Galloping Inferno"
+    ]
+  },
+  {
+    "tag": "lifegain",
+    "cards": [
+      "Ajani's Mantra",
+      "Arni Slays the Troll",
+      "Diamond Mare",
+      "Sun Droplet",
+      "Selvala, Explorer Returned",
+      "Shield Mare",
+      "Bill the Pony"
+    ]
+  },
+  {
+    "tag": "lifelink",
+    "cards": [
+      "Basilisk Collar",
+      "Shadowspear",
+      "Resurrection Orb",
+      "Loxodon Warhammer"
+    ]
+  },
+  {
+    "tag": "mana",
+    "cards": [
+      "Sol Ring",
+      "Arcane Signet",
+      "Farseek",
+      "Nature's Lore",
+      "Three Visits",
+      "Faeburrow Elder",
+      "Selvala, Explorer Returned",
+      "Sword of Feast and Famine"
+    ]
+  },
+  {
+    "tag": "protection",
+    "cards": [
+      "Heroic Intervention",
+      "Resurrection Orb",
+      "Swiftfoot Boots",
+      "Flawless Maneuver"
+    ]
+  },
+  {
+    "tag": "trigger-doubler",
+    "cards": [
+      "Strionic Resonator",
+      "Delney, Streetwise Lookout",
+      "Roaming Throne"
+    ]
+  },
+  {
+    "tag": "tutor-creature",
+    "cards": [
+      "Worldly Tutor",
+      "Eladamri's Call",
+      "Archdruid's Charm",
+      "Congregation at Dawn",
+      "Defense of the Heart"
+    ]
+  },
+  {
+    "tag": "tutor-lte-3-cmc",
+    "cards": [
+      "Guardian Sunmare"
+    ]
+  },
+  {
+    "tag": "Untagged Lands",
+    "cards": [
+      "Bountiful Promenade",
+      "Clifftop Retreat",
+      "Command Tower",
+      "Commercial District",
+      "Elegant Parlor",
+      "Exotic Orchard",
+      "Forest",
+      "Jetmir's Garden",
+      "Lush Portico",
+      "Mountain",
+      "Plains",
+      "Rootbound Crag",
+      "Sacred Foundry",
+      "Stomping Ground",
+      "Sunpetal Grove",
+      "Temple Garden",
+      "Temple of Abandon",
+      "Temple of Plenty",
+      "Temple of Triumph",
+      "Windswept Heath",
+      "Wooded Foothills"
+    ]
+  }
+]

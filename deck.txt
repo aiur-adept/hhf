@@ -1,0 +1,83 @@
+1 Ajani's Mantra
+1 Ancient Animus
+1 Arcane Signet
+1 Archdruid's Charm
+1 Arni Slays the Troll
+1 Basilisk Collar
+1 Bill the Pony
+1 Bite Down
+1 Bountiful Promenade
+1 Brightfield Mustang
+1 Bushwhack
+1 Calamity, Galloping Inferno
+1 Chrome Steed
+1 Clifftop Retreat
+1 Collective Blessing
+1 Colossification
+1 Command Tower
+1 Commercial District
+1 Congregation at Dawn
+1 Craterhoof Behemoth
+1 Crested Sunmare
+1 Defense of the Heart
+1 Delney, Streetwise Lookout
+1 Diamond Mare
+1 Dromoka's Command
+1 Eladamri's Call
+1 Elegant Parlor
+1 Ent's Fury
+1 Epic Confrontation
+1 Esper Sentinel
+1 Exotic Orchard
+1 Faeburrow Elder
+1 Farseek
+1 Fireshrieker
+1 Flawless Maneuver
+9 Forest
+1 Ghostly Prison
+1 Go for Blood
+1 Goblin Bombardment
+1 Guardian Sunmare
+1 Heirloom Blade
+1 Heroic Intervention
+1 Jetmir's Garden
+1 Loxodon Warhammer
+1 Lush Portico
+1 Mind's Eye
+1 Motivated Pony
+2 Mountain
+1 Nature's Lore
+8 Plains
+1 Prey Upon
+1 Ram Through
+1 Resurrection Orb
+1 Return of the Wildspeaker
+1 Roaming Throne
+1 Rootbound Crag
+1 Sacred Foundry
+1 Savage Punch
+1 Seedborn Muse
+1 Selvala, Explorer Returned
+1 Shadowfax, Lord of Horses
+1 Shadowspear
+1 Shield Mare
+1 Skullclamp
+1 Sol Ring
+1 Stomping Ground
+1 Strionic Resonator
+1 Sun Droplet
+1 Sunpetal Grove
+1 Swiftfoot Boots
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sylvan Library
+1 Temple Garden
+1 Temple of Abandon
+1 Temple of Plenty
+1 Temple of Triumph
+1 Three Visits
+1 Thundering Mightmare
+1 Vine Mare
+1 Windswept Heath
+1 Wooded Foothills
+1 Worldly Tutor
