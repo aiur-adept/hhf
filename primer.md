@@ -13,7 +13,7 @@ This deck "works" by having horses that fight come out of eggs.
 ### Engine 1 - Crested Sunmare Token Factory
 > *"If you gained life this turn, create a 5/5 white Horse token at end step."*
 
-**Crested Sunmare** is the deck's most powerful card. Once it's on the battlefield with any lifelink source — **Basilisk Collar**, **Shadowspear**, **Loxodon Warhammer**, **Resurrection Orb**, or **Shield Mare**'s triggered ability — you can generally generate a 5/5 Horse every turn. Every Horse also becomes indestructible while Sunmare is alive, so ideally you can swiftfoot and/or resurrection orb the crested sunmare. 
+**Crested Sunmare** is the deck's most powerful card. Once it's on the battlefield with any lifelink source — **Basilisk Collar**, **Shadowspear**, **Loxodon Warhammer**, **Resurrection Orb**, or **Shield Mare**'s triggered ability — you can generally generate a 5/5 Horse every turn. Every *other* Horse also becomes indestructible while Sunmare is alive, so ideally you can swiftfoot and/or resurrection orb the crested sunmare. 
 
 Is this engine a game-winner? Not really, maybe in a 1v1 with a deck that can't keep pace, but it is nonetheless one of the more powerful outcomes and worth mentioning. This is what you'll tutor for with **Eladamri's Call** / the other creature tutors virtually every time.
 
